@@ -11,4 +11,5 @@
 ### Links Uteis / Useful Links
 
 - [Calculadora da Amanda/Amanda's Calculator] (https://github.com/appinha/ip_calc-netwhat-42cursus#-motivation)
+
 -[PDF em inglês / English PDF] (https://github.com/lucasnfarias/42Cursus/blob/master/netwhat/NETWHAAAAAAAAAAAAAAAT_.pdf)
